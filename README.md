@@ -4,4 +4,4 @@ The objective of this project is to utilize java script knowledge and realize fu
 
 :link: [Link to view](https://ziyonghe.github.io/random-password-generator/)
 
-![Portfolio website preview](./password-generator.png)
+![Preview](./password-generator.png)
